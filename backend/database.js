@@ -1,7 +1,7 @@
 const mongodb = require('mongodb');
 
 const MongoClient = mongodb.MongoClient;
-const mongoDbUrL='mongodb+srv://Tarun:0rp9sms3cwaOfAvN@cluster0.sgbuymx.mongodb.net/?retryWrites=true&w=majority'
+const mongoDbUrL='' // use mongodb atlas provided url here..
 
 let _db;
 
